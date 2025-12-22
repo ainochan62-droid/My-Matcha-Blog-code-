@@ -1,0 +1,26 @@
+h1 {
+    text-align: center;
+    border-width: 5px;
+    border-radius: 10px;
+    width: 500px;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    margin-top: 30px;
+
+    display: block;
+    margin: auto;
+    margin-top: 30px;
+
+}
+
+img {
+    display: block;
+    margin: auto;
+    margin-top: 30px;
+}
+
+#slogan {
+    background-color: blue;
+    color: aliceblue;
+    text-align: center;
+}
